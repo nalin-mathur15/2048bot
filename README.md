@@ -6,6 +6,8 @@ This project implements an AI that automatically plays the 2048 game, aiming to 
 
 This project provides a web-based implementation of the 2048 game, enhanced with an AI player. The AI intelligently makes moves to try and maximise the score.  You can watch the AI play the game automatically.
 
+You can view the game [here](https://nalin-mathur15.github.io/2048bot/)
+
 ## How to Run
 
 1. **Clone the repository:**
